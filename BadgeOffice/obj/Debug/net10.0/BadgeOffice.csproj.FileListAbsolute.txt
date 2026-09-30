@@ -1,0 +1,14 @@
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/bin/Debug/net10.0/BadgeOffice
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/bin/Debug/net10.0/BadgeOffice.deps.json
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/bin/Debug/net10.0/BadgeOffice.runtimeconfig.json
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/bin/Debug/net10.0/BadgeOffice.dll
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/bin/Debug/net10.0/BadgeOffice.pdb
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/BadgeOffice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/BadgeOffice.AssemblyInfoInputs.cache
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/BadgeOffice.AssemblyInfo.cs
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/BadgeOffice.csproj.CoreCompileInputs.cache
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/BadgeOffice.dll
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/refint/BadgeOffice.dll
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/BadgeOffice.pdb
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/BadgeOffice.genruntimeconfig.cache
+/Users/graysonwininger/CSCI1250/lab03-badge/BadgeOffice/obj/Debug/net10.0/ref/BadgeOffice.dll
