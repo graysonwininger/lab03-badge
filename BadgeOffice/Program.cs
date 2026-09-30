@@ -1,4 +1,11 @@
-﻿//Badge Office
+﻿/*
+*Name:        Grayson Wininger
+*Course:      CSCI 1250, Section 001
+*Assignment:  Lab 03, The Badge Office
+*Date:        September 30, 2026
+*Description: Builds a student badge from a name, two random assignments,
+*.            and the walking distance to a first class
+*/
 
 //To create random numbers
 Random rng = new Random();
@@ -37,3 +44,22 @@ int lockerNumber = rng.Next(1,501);
 //Displays studdentID and locker number
 Console.WriteLine("StudentID:" + studentIdentification);
 Console.WriteLine("Locker number:" + lockerNumber);
+
+//Prompts for x and y for dorm and classroom, prompts for walking speed, takes user input for all
+Console.WriteLine("What is the dorm's x?");
+int dormX = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("What is the dorm's y?");
+int dormY = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("What is the classroom's x?");
+int classroomX = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("What is the Classroom's y?");
+int classroomY = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("What is your walking speed in feet per second?");
+Double walkingSpeed = Convert.ToDouble(Console.ReadLine());
+
+double distance = Math.Sqrt(Math.Pow(classroomX - dormX,2) + Math.Pow(classroomY - dormY,2));
+int walkTimeQuotient = Convert.ToInt32(distance) / Convert.ToInt32(walkingSpeed);
+int walkingTimeRemainder = Convert.ToInt32(distance) % Convert.ToInt32(walkingSpeed);
+
+string walkTime = walkingTimeRemainder + " " + "min" + " " + walkingTimeRemainder + " " + "sec";
+
